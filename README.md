@@ -12,9 +12,9 @@ The casperjs executable is Python so make sure you also have it installed.
 run instructions
 ================
 In the directory in which you have the go.js file saved, run
-'''shell
+```shell
 casperjs go.js --email=EMAIL--pass=PASSWORD --groups=118922578264460,535754936441035,etc...
-'''
+```
 
 Of course, replace EMAIL and PASSWORD with your Facebook email and password.
 
